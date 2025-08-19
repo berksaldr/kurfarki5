@@ -1,62 +1,62 @@
 [
  {
-  "table":"SUI_TM_MM_APPT",
+  "table":"DDLX_RT_REFS",
   "nametab":
   [
    {
-    "NAME":"APP_ID",
+    "NAME":"DDLXNAME",
     "KEY":"X",
     "TYPE":"C",
-    "LENGTH":32,
+    "LENGTH":40,
     "DECIMALS":-1
    },
    {
-    "NAME":"LANGU",
+    "NAME":"ELEMENT",
     "KEY":"X",
-    "TYPE":"L",
-    "LENGTH":1,
+    "TYPE":"C",
+    "LENGTH":256,
     "DECIMALS":-1
    },
    {
-    "NAME":"TILE_TITLE",
-    "KEY":"",
+    "NAME":"NAME",
+    "KEY":"X",
     "TYPE":"C",
-    "LENGTH":255,
+    "LENGTH":240,
     "DECIMALS":-1
    },
    {
-    "NAME":"TILE_SUBTITLE",
-    "KEY":"",
+    "NAME":"PATH",
+    "KEY":"X",
     "TYPE":"C",
-    "LENGTH":255,
+    "LENGTH":1300,
     "DECIMALS":-1
    },
    {
-    "NAME":"TILE_KEYWORDS",
-    "KEY":"",
+    "NAME":"REF_OBJECT_TYPE",
+    "KEY":"X",
     "TYPE":"C",
-    "LENGTH":255,
+    "LENGTH":4,
     "DECIMALS":-1
    },
    {
-    "NAME":"TILE_INFORMATION",
-    "KEY":"",
+    "NAME":"REF_OBJECT_SUBTYPE",
+    "KEY":"X",
     "TYPE":"C",
-    "LENGTH":255,
+    "LENGTH":3,
     "DECIMALS":-1
    },
    {
-    "NAME":"ALT_SMART_LINK_TITLE",
+    "NAME":"REF_OBJECT_NAME",
     "KEY":"",
     "TYPE":"C",
-    "LENGTH":255,
+    "LENGTH":40,
     "DECIMALS":-1
    },
    {
-    "NAME":"DESCRIPTION",
+    "NAME":"REF_OBJECT_ELEMENT",
     "KEY":"",
     "TYPE":"C",
-    "LENGTH":255,
+    "LENGTH":256,
     "DECIMALS":-1
    }
   ],
@@ -65,7 +65,7 @@
    {
     "CLIENTDEPENDENCY":"NO",
     "DELIVERYCLASS":"W",
-    "TABART":"APPL2",
+    "TABART":"APPL0",
     "TABFORM":"T",
     "REFNAME":"-"
    }

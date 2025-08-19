@@ -33,24 +33,6 @@
   ]
  },
  {
-  "table":"DDDDLSRC03NT",
-  "data":
-  [
-   {
-    "DDLNAME":"ZFI003_DD_ITEMD",
-    "STRUCOBJN":"ZFI003_DD_ITEMD",
-    "NODENAME":".NODE1",
-    "DDLANGUAGE":"E",
-    "AS4LOCAL":"N",
-    "FIELDNAME":"TAX_CODE",
-    "DEPTH":0,
-    "DDTEXT":"Vergi Data Element",
-    "FIELDLABEL":"",
-    "QUICKINFO":""
-   }
-  ]
- },
- {
   "table":"DDDDLSRCT",
   "data":
   [

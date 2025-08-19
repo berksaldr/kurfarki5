@@ -12,7 +12,7 @@
     "SOURCE":"@AccessControl.authorizationCheck: #CHECK\r\n@Metadata.allowExtensions: true\r\n@EndUserText.label: '###GENERATED Core Data Service Entity'\r\ndefine root view entity ZR_FI003_T_TAXCD\r\n  as select from ZFI003_T_TAXCD\r\n{\r\n  key tax_code as TaxCode,\r\n  tax_type as TaxType,\r\n  move_type as MoveType,\r\n  percent as Percent,\r\n  debit_credit as DebitCredit,\r\n  @Semantics.user.createdBy: true\r\n  local_created_by as LocalCreatedBy,\r\n  @Semantics.systemDateTime.createdAt: true\r\n  local_created_at as LocalCreatedAt,\r\n  @Semantics.user.localInstanceLastChangedBy: true\r\n  local_last_changed_by as LocalLastChangedBy,\r\n  @Semantics.systemDateTime.localInstanceLastChangedAt: true\r\n  local_last_changed_at as LocalLastChangedAt,\r\n  @Semantics.systemDateTime.lastChangedAt: true\r\n  last_changed_at as LastChangedAt\r\n  \r\n}\r\n/*+[internal] {\n\"BASEINFO\":\n{\n\"FROM\":\n[\n\"ZFI003_T_TAXCD\"\n],\n\"ASSOCIATED\":\n[],\n\"BASE\":\n[],\n\"ANNO_REF\":\n[],\n\"SCALAR_FUNCTION\":\n[],\n\"VERSION\":0,\n\"ANNOREF_EVALUATION_ERROR\":\"\"\n}\n}*/",
     "PARENTNAME":"",
     "ACTFLAG":"",
-    "CHGFLAG":"",
+    "CHGFLAG":"J,W4T2",
     "SOURCE_TYPE":"W",
     "SOURCE_ORIGIN":"0",
     "ABAP_LANGUAGE_VERSION":"5"

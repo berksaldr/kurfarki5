@@ -33,7 +33,7 @@
     "REFRESH_INTERVALL":0,
     "DISPLAY_NUMBER_UNIT":"",
     "FLAVOR_ID":"",
-    "CHANGED_AT":"+020241017081723",
+    "CHANGED_AT":"+020250819125943",
     "CHANGED_BY":"SAP_CUSTOMER",
     "MASTERLANG":"",
     "ACH_COMPONENT":"",
@@ -108,7 +108,8 @@
     "TILE_SUBTITLE":"",
     "TILE_KEYWORDS":"",
     "TILE_INFORMATION":"",
-    "ALT_SMART_LINK_TITLE":"ZFI003 Exchange App"
+    "ALT_SMART_LINK_TITLE":"ZFI003 Exchange App",
+    "DESCRIPTION":"An SAP Fiori application."
    },
    {
     "APP_ID":"ZNDBS_EXCHANGE_UI5R",
@@ -117,7 +118,8 @@
     "TILE_SUBTITLE":"",
     "TILE_KEYWORDS":"",
     "TILE_INFORMATION":"",
-    "ALT_SMART_LINK_TITLE":"Kur Farkı Uygulaması"
+    "ALT_SMART_LINK_TITLE":"Kur Farkı Uygulaması",
+    "DESCRIPTION":"An SAP Fiori application."
    }
   ]
  },
@@ -145,8 +147,8 @@
     "CRELEASE":"",
     "DELFLAG":"",
     "TRANSLTTXT":"",
-    "CREATED_ON":"2024-10-17",
-    "CHECK_DATE":"2024-10-17",
+    "CREATED_ON":"2025-08-19",
+    "CHECK_DATE":"2025-08-19",
     "CHECK_CFG":""
    }
   ]

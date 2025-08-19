@@ -627,6 +627,32 @@
   ]
  },
  {
+  "table":"DDLX_RT_REFS",
+  "data":
+  [
+   {
+    "DDLXNAME":"ZC_FI003_T_TAXCD",
+    "ELEMENT":"",
+    "NAME":"UI.HEADERINFO.DESCRIPTION.VALUE",
+    "PATH":"TAXCODE",
+    "REF_OBJECT_TYPE":"STOB",
+    "REF_OBJECT_SUBTYPE":"DOF",
+    "REF_OBJECT_NAME":"ZC_FI003_T_TAXCD",
+    "REF_OBJECT_ELEMENT":"TAXCODE"
+   },
+   {
+    "DDLXNAME":"ZC_FI003_T_TAXCD",
+    "ELEMENT":"",
+    "NAME":"UI.HEADERINFO.TITLE.VALUE",
+    "PATH":"TAXCODE",
+    "REF_OBJECT_TYPE":"STOB",
+    "REF_OBJECT_SUBTYPE":"DOF",
+    "REF_OBJECT_NAME":"ZC_FI003_T_TAXCD",
+    "REF_OBJECT_ELEMENT":"TAXCODE"
+   }
+  ]
+ },
+ {
   "table":"TADIR",
   "data":
   [
