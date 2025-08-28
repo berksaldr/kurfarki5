@@ -33,7 +33,7 @@
     "REFRESH_INTERVALL":0,
     "DISPLAY_NUMBER_UNIT":"",
     "FLAVOR_ID":"",
-    "CHANGED_AT":"+020250826144301",
+    "CHANGED_AT":"+020250827171315",
     "CHANGED_BY":"SAP_CUSTOMER",
     "MASTERLANG":"",
     "ACH_COMPONENT":"",
@@ -147,8 +147,8 @@
     "CRELEASE":"",
     "DELFLAG":"",
     "TRANSLTTXT":"",
-    "CREATED_ON":"2025-08-26",
-    "CHECK_DATE":"2025-08-26",
+    "CREATED_ON":"2025-08-27",
+    "CHECK_DATE":"2025-08-27",
     "CHECK_CFG":""
    }
   ]
